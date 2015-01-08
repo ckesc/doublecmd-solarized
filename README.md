@@ -6,7 +6,12 @@ Solarized light for Double Commander
 2. Clone repo or open `colors.xml` on github and copy contents
 3. Replace xml nodes of `Color` section in your `doublecmd.xml` file.
 
-For Windows version you can find your `doublecmd.xml` file in `C:\Users\USER\AppData\Roaming\doublecmd\` 
+#Where is `doublecmd.cmd` ?
+Configuration file `doublecmd.xml` in every OS in different place:
+## Windows
+ `C:\Users\USER\AppData\Roaming\doublecmd\` 
+## Ubuntu
+`~/.config/doublecmd/doublecmd.xml`
 
 
 #If you make your own color set
