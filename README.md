@@ -9,7 +9,7 @@ Solarized light for Double Commander
 #Where is `doublecmd.cmd` ?
 Configuration file `doublecmd.xml` in every OS in different place:
 ## Windows
- `C:\Users\USER\AppData\Roaming\doublecmd\` 
+ `C:\Users\USER\AppData\Roaming\doublecmd\doublecmd.xml` 
 ## Ubuntu
 `~/.config/doublecmd/doublecmd.xml`
 
